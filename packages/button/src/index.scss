@@ -1,0 +1,16 @@
+.el-button--primary.is-disabled,
+.el-button--primary.is-disabled:hover,
+.el-button--primary.is-disabled:focus,
+.el-button--primary.is-disabled:active {
+  color: #ffffff !important;
+  background-color: #82848a !important;
+  border-color: #93e9ce !important;
+}
+.el-button--primary,
+.el-button--primary:hover,
+.el-button--primary:active,
+.el-button--primary:focus {
+  background: rgba(40, 255, 187, 0.1);
+  border: 1px solid rgba(40, 255, 187, 0.45);
+  border-radius: 2px;
+}
