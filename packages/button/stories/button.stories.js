@@ -9,7 +9,7 @@ export const Button = _ => ({
   components: { GtButton },
   template: `
     <div>
-      <gt-button></gt-button>
+      <gt-button>我符合我凤凰凤凰</gt-button>
     </div>
   `,
   parameters: { 
