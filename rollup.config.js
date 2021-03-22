@@ -25,9 +25,9 @@ const plugins = [
   nodeResolve(),
   postcss({
     // 把 css 插入到 style 中
-    // inject: true,
+    inject: true,
     // 把 css 放到和js同一目录
-    extract: true
+    // extract: true
   }),
   commonjs(),
 ]

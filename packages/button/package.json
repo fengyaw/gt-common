@@ -1,6 +1,6 @@
 {
   "name": "gt-button",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "gt-button component",
   "main": "dist/cjs/index.js",
   "module": "dist/es/index.js",
